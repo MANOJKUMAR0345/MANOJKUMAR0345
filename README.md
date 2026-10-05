@@ -82,4 +82,4 @@ true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&sectio
 n=footer"/>
-</div
+</div>
